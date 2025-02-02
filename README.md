@@ -137,6 +137,14 @@ bun run start
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
-## Licença
+## 👤 Autor
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+### Erick Nunes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erck-nunes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ER1CK122)
+
+---
+
+<div align="center">
+Desenvolvido com 💙 por Erick Nunes
+</div>
